@@ -1,0 +1,17 @@
+{
+  "name": "gear-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "start": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "request": "^2.88.2"
+  }
+}
